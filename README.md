@@ -59,7 +59,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ifaaYourStarz07/ifaaYourStarz07/output/pacman-contribution-graph.svg">
 </picture>
 
+### 🐍 Snake Eating My Contributions
 
+![Snake animation](https://raw.githubusercontent.com/ifaaYourStarz07/ifaaYourStarz07/output/github-contribution-grid-snake.svg)
 
 ---
 
