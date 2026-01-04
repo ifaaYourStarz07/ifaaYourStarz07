@@ -66,9 +66,9 @@
 ## 🎶 Recently Played on Spotify
 
 <div align="center">
-    <a href="https://open.spotify.com/user/31ye2ifilkqdvozs5szwjuwkvqxi" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ye2ifilkqdvozs5szwjuwkvqxi&count=5" alt="Spotify recently played" />
-    </a>
+  <a href="https://open.spotify.com/user/31ye2ifilkqdvozs5szwjuwkvqxi">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ye2ifilkqdvozs5szwjuwkvqxi&cover_image=true&theme=dark&show_offline=true&background_color=121212" alt="Spotify Profile" />
+  </a>
 </div>
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ID_SPOTIFY_KAMU&cover_image=true&theme=dark" />
