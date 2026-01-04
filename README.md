@@ -63,6 +63,10 @@
 
 ![Snake animation](https://raw.githubusercontent.com/ifaaYourStarz07/ifaaYourStarz07/output/github-contribution-grid-snake.svg)
 
+
+## 🏙️ My GitHub City (3D Contributions)
+
+![GitHub City 3D](./profile-3d-contrib/profile-night-view.svg)
 ---
 
 ## 🎶 Recently Played on Spotify
