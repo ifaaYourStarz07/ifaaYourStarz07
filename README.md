@@ -66,10 +66,9 @@
 ## 🎶 Recently Played on Spotify
 
 <div align="center">
-    <div align="center">
-    <a href="https://open.spotify.com/user/31ye2ifilkqdvozs5szwjuwkvqxi?si=c6aabfd4048b4fa7" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-    </a>
+  <a href="https://open.spotify.com/user/DONQUIXOTE_IFA">
+    <img src="https://novatorem-spotify.vercel.app/api/last-played?user=DONQUIXOTE_IFA" alt="Recently Played" />
+  </a>
 </div>
 
 ---
